@@ -827,3 +827,5 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/muke.ai/4#inet#fw4#vpn_domains
 nftset=/jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/lgappstv.com/4#inet#fw4#vpn_domains
+nftset=/ru.lgrecommends.lgappstv.com/4#inet#fw4#vpn_domains
