@@ -979,5 +979,5 @@ nftset=/xp.apple.com/4#inet#fw4#vpn_domains
 nftset=/music.apple.com/4#inet#fw4#vpn_domains
 nftset=/3dwarehouse.sketchup.com/4#inet#fw4#vpn_domains
 nftset=/fansly.com/4#inet#fw4#vpn_domains
-#nftset=/2ip.ru/4#inet#fw4#vpn_domains
+nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/onlyfans.com/4#inet#fw4#vpn_domains
