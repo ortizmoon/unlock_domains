@@ -993,7 +993,3 @@
 # nftset=/googleusercontent.com/4#inet#fw4#vpn_domains
 # nftset=/gstatic.com/4#inet#fw4#vpn_domains
 nftset=/./#4#inet#fw4#vpn_domains
-nftset=/ru/#4#inet#fw4#vpn_domains!
-nftset=/by/#4#inet#fw4#vpn_domains!
-nftset=/kz/#4#inet#fw4#vpn_domains!
-nftset=/su/#4#inet#fw4#vpn_domains!
