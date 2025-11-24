@@ -283,7 +283,6 @@ nftset=/.be/4#inet#fw4#vpn_domains
 # nftset=/grani.ru/4#inet#fw4#vpn_domains
 # nftset=/graph.org/4#inet#fw4#vpn_domains
 # nftset=/graty.me/4#inet#fw4#vpn_domains
-# nftset=/graylog.org/4#inet#fw4#vpn_domains
 # nftset=/grok.com/4#inet#fw4#vpn_domains
 # nftset=/groq.com/4#inet#fw4#vpn_domains
 # nftset=/groupon.com/4#inet#fw4#vpn_domains
